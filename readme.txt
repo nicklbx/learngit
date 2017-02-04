@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
 >>>>>>> featurel
 test1
+testCoordinate
